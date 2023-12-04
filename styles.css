@@ -11,6 +11,8 @@ Also, consider how you should select the image
 body{
    text-align: center;
    font-family: happy monkey, cursive;
+    background: #a2d2ff;
+    color: #ffffff;
    
    
    
@@ -18,5 +20,7 @@ body{
 #bff-img{
     width: 200px;
     border-radius: 50%;
+    border: 6px solid #EFB0C9;
+   
     
 }
