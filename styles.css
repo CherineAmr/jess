@@ -13,10 +13,7 @@ body{
    font-family: happy monkey, cursive;
     background: #a2d2ff;
     color: #ffffff;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: start;
+
    
    
 }
