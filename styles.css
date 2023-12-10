@@ -41,7 +41,7 @@ background-image: url("giphy.gif");
 
 }
 .container {
-    height: 10vh; /* Set the container height to the full viewport height */
+    height: 10vh; /
     display: flex;
     align-items: center;
     justify-content: center;
