@@ -10,20 +10,41 @@ Also, consider how you should select the image
 */
 body{
    text-align: center;
-   font-family: happy monkey, cursive;
-    background: #a2d2ff;
-    color: #ffffff;
-
+   font-family: 'Happy Monkey', cursive;
+   background-color: darkorchid;
+  
    
    
 }
 #bff-img{
     width: 200px;
     border-radius: 50%;
-    border: 6px solid #EFB0C9;
-   
     
 }
-h1, h2, h3, h4, p {
-    text-shadow: 0px 0px 1px black; 
+p{
+    color: white;
 }
+.present{
+    height: 300px;
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    background-image: url("https://artprojectsforkids.org/wp-content/uploads/2021/10/How-to-Draw-a-Present.jpg.webp");
+    align-items: center; 
+    background-size: cover;
+    margin-top: 200px;
+
+       
+}
+
+.present:hover{
+background-image: url("giphy.gif");
+
+}
+.container {
+    height: 10vh; /* Set the container height to the full viewport height */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
